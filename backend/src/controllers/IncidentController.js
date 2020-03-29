@@ -20,7 +20,7 @@ module.exports = {
                 'ongs.city', 
                 'ongs.uf'
             ]);
-        
+
         return response.json(incidents);
     },
     
